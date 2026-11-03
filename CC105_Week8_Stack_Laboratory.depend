@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1793720042 source:c:\users\don gabriel\documents\testing\cc105_week8_stack_laboratory\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	"Stack.h"
+	"Expression.h"
+
+1793719755 c:\users\don gabriel\documents\testing\cc105_week8_stack_laboratory\stack.h
+
+1793720183 c:\users\don gabriel\documents\testing\cc105_week8_stack_laboratory\expression.h
+	<iostream>
+	<string>
+	<vector>
+	<cctype>
+	<sstream>
+	<stdexcept>
+	<cmath>
+	"Stack.h"
+
